@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rohith 😄✨
-- 👀 I’m interested in AI ⚡⚡
-- 🌱 I’m currently learning Gen Ai 📫
+- 👀 AI ⚡⚡
+- 🌱📫
 
 
 <!---
