@@ -7,7 +7,4 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI/ML Developer** p
 - 📫 Let's connect:
 # Connect with Me
 
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-m-b-43b37b283)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohithekm)
