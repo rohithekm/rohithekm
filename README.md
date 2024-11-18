@@ -6,4 +6,4 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI/ML Developer** p
 - 🌱 Exploring: **Text-to-Image**, **Image-to-Video Generation**
 - 📫 Let's connect:
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/rohith-m-b-43b37b283/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/rohith-m-b-43b37b283)
