@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI/ML Developer** p
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LinkedIn Logo with Link</title
+    <title>LinkedIn Logo with Link</title>
     <style>
         .linkedin-logo {
             width: 4px;
