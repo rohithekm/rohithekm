@@ -7,3 +7,9 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI/ML Developer** p
 - 📫 Let's connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rohith-m-b-43b37b283)
+
+
+[[params.social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.co.in/citations?user=USERID"
