@@ -6,23 +6,21 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI/ML Developer** p
 - 🌱 Exploring: **Text-to-Image**, **Image-to-Video Generation**
 - 📫 Let's connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rohith-m-b-43b37b283)
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LinkedIn Logo with Link</title>
+    <title>LinkedIn Logo with Link</title
     <style>
         .linkedin-logo {
-            width: 40px;
-            height: 40px;
+            width: 4px;
+            height: 4px;
         }
     </style>
 </head>
 <body>
-    <a href="https://www.linkedin.com/in/rohith-m-b-43b37b283" target="_blank" title="Visit my LinkedIn profile">
+    <a href="www.linkedin.com/in/rohithekm" target="_blank" title="Visit my LinkedIn profile">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" 
              alt="LinkedIn" class="linkedin-logo">
     </a>
