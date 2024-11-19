@@ -10,17 +10,17 @@ I’m passionate about leveraging Artificial Intelligence, Machine Learning, and
 
 ### 🌟 **Core Domains:**
 
-🤖 **Artificial Intelligence**:
-- Hugging Face Transformers, LangChain, Stable Diffusion, ChatGroq
-- RAG systems, Conversational AI, and Neural Network Development
-- Gradio,Neo4j
+- 🤖 **Artificial Intelligence**:
+  - Hugging Face Transformers, LangChain, Stable Diffusion, ChatGroq
+  - RAG systems, Conversational AI, and Neural Network Development
+  - Gradio,Neo4j
 
-🧠 **Machine Learning**:
-- TensorFlow,Keras
-- Predictive Modeling, Feature Engineering, and Optimization
-- Matplotlib, Seaborn, and Plotly
-- Streamlit, Chainlit, Flask, and FastAPI
-- Data Wrangling, Visualization, and Statistical Analysis  
+- 🧠 **Machine Learning**:
+  - TensorFlow,Keras
+  - Predictive Modeling, Feature Engineering, and Optimization
+  - Matplotlib, Seaborn, and Plotly
+  - Streamlit, Chainlit, Flask, and FastAPI
+  - Data Wrangling, Visualization, and Statistical Analysis  
 
 ### 💻 **Programming Languages:**  
 
@@ -31,12 +31,12 @@ I’m passionate about leveraging Artificial Intelligence, Machine Learning, and
 
 ### 💻 **What I'm Working On:** 
 
-🤖 **1. AI-Powered Career Counseling System**
+- 🤖 **AI-Powered Career Counseling System**
 
-- Technologies: Chainlit, Langchain, ChatGroq, GPT4All embeddings, Neo4j.
-- Provide personalized career guidance tailored to individual preferences and skills.
-- Exploring innovative RAG solutions for personalized learning.
-- Ensure a seamless user experience with session memory and context retention.
+  - Technologies: Chainlit, Langchain, ChatGroq, GPT4All embeddings, Neo4j.
+  - Provide personalized career guidance tailored to individual preferences and skills.
+  - Exploring innovative RAG solutions for personalized learning.
+  - Ensure a seamless user experience with session memory and context retention.
 
 ---
 
