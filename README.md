@@ -22,7 +22,7 @@ I’m passionate about leveraging Artificial Intelligence, Machine Learning, and
 - Streamlit, Chainlit, Flask, and FastAPI
 - Data Wrangling, Visualization, and Statistical Analysis  
 
-###💻 **Programming Languages:**  
+### 💻 **Programming Languages:**  
 
 - **Python**
 - **SQL**
@@ -33,8 +33,8 @@ I’m passionate about leveraging Artificial Intelligence, Machine Learning, and
 
 🤖 **1. AI-Powered Career Counseling System**
 
--Technologies: Chainlit, Langchain, ChatGroq, GPT4All embeddings, Neo4j.
--Provide personalized career guidance tailored to individual preferences and skills.
+- Technologies: Chainlit, Langchain, ChatGroq, GPT4All embeddings, Neo4j.
+- Provide personalized career guidance tailored to individual preferences and skills.
 - Exploring innovative RAG solutions for personalized learning.
 - Ensure a seamless user experience with session memory and context retention.
 
