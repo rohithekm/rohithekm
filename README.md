@@ -20,21 +20,19 @@ I’m passionate about leveraging Artificial Intelligence, Machine Learning, and
 - Predictive Modeling, Feature Engineering, and Optimization
 - Matplotlib, Seaborn, and Plotly
 - Streamlit, Chainlit, Flask, and FastAPI
-- **Data Science**: Data Wrangling, Visualization, and Statistical Analysis  
+- Data Wrangling, Visualization, and Statistical Analysis  
 
-### 🖥️ **Technologies:**  
+###💻 **Programming Languages:**  
 
-💻 Programming Languages:
 - **Python**
 - **SQL**
 
-
-
 ---
 
-## 💻 **What I'm Working On:** 
+### 💻 **What I'm Working On:** 
 
-🤖 1.**AI-Powered Career Counseling System**
+🤖 **1. AI-Powered Career Counseling System**
+
 -Technologies: Chainlit, Langchain, ChatGroq, GPT4All embeddings, Neo4j.
 -Provide personalized career guidance tailored to individual preferences and skills.
 - Exploring innovative RAG solutions for personalized learning.
@@ -43,7 +41,7 @@ I’m passionate about leveraging Artificial Intelligence, Machine Learning, and
 ---
 
 📫 **Connect with me:**  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohithekm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohithekm)
 
 
 Let’s collaborate and bring ideas to life!  
