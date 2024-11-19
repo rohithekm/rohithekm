@@ -22,7 +22,7 @@ I’m passionate about leveraging Artificial Intelligence, Machine Learning, and
   - Streamlit, Chainlit, Flask, and FastAPI
   - Data Wrangling, Visualization, and Statistical Analysis  
 
-### 💻 **Programming Languages:**  
+### 👨🏾‍💻 **Programming Languages:**  
 
 - **Python**
 - **SQL**
